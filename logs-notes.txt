@@ -1,0 +1,1 @@
+http://localhost:3100/loki/api/v1/query?query={job="varlogs"}

@@ -13,6 +13,6 @@ scrape_configs:
       - grafana
     labels:
       job: grafana
-      __path__: /home/dhanrp/Desktop/Asgard/compose/grafana.log
+      __path__: grafana.log
       
       # we can add more labels for get logs
